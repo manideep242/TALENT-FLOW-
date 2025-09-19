@@ -138,15 +138,4 @@ mani2/
 ### Styling
 The application uses Tailwind CSS with custom utility classes defined in `src/index.css`. You can customize the design by modifying the Tailwind configuration or adding custom CSS.
 
-## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## License
-
-
-This project is licensed under the MIT License.
